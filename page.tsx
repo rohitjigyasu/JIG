@@ -1,0 +1,1 @@
+export default function Page(){return (<div><h1>A New Way of Science Learning</h1></div>);}
